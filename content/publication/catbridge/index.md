@@ -6,7 +6,7 @@ authors:
 
 
 
-date: "2023-10-01T00:00:00Z"
+date: "2023-8-20T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -18,7 +18,7 @@ publication: 'processing'
 publication_short: "publication_short"
 publication_types:
 - "2"
-publishDate: "2023-10-01T00:00:00Z"
+publishDate: "2023-08-20T00:00:00Z"
 slides:
 summary: "summary"
 tags:
