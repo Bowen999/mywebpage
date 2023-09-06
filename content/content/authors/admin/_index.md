@@ -10,13 +10,11 @@ role: PhD student in Chemistry
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Prof. Liang Li's Group 
-    url: https://spaces.facsci.ualberta.ca/liweb/prof-liang-li/
   - name: University of Alberta 
     url: https://www.ualberta.ca/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: Bioinformatics tool development, Metabolomics, Mass spectrometry, Machine Learning.
+bio: biochem
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
