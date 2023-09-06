@@ -34,7 +34,7 @@ email: 'by8@ualberta.ca'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
----
+---  
 under maintenance
 
 
