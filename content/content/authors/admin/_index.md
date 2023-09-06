@@ -13,7 +13,7 @@ role: PhD student in Chemistry
     url: https://www.ualberta.ca/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: Bioinformatics tool development, Metabolomics, Mass spectrometry, Machine Learning.
+bio: Biochem
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
