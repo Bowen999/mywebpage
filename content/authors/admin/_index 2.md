@@ -10,8 +10,6 @@ role: PhD student in Chemistry
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Prof. Liang Li's Group 
-    url: https://spaces.facsci.ualberta.ca/liweb/prof-liang-li/
   - name: University of Alberta 
     url: https://www.ualberta.ca/index.html
 
