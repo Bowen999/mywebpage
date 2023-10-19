@@ -33,7 +33,7 @@ summary: "summary"
 tags:
 - submitted
 - marine biology
-title: 'The acute neurotoxicity of inorganic mercury in Mactra chinensis philippi'
+title: 'The acute neurotoxicity of inorganic mercury in Mactra chinensis philippi (under review)'
 url_code: ""
 url_dataset: ""
 url_pdf: ""
