@@ -1,7 +1,7 @@
 ---
 abstract: With advancements in sequencing and mass spectrometry technologies, multi-omics data can now be easily acquired for understanding complex biological systems. Nevertheless, substantial challenges remain in determining the association between gene-metabolite pairs using integrated multi-omic data analysis, due to the complexity of cellular networks. Here, we introduce CAT Bridge (freely available at http://catbridge.work), a user-friendly platform for longitudinal multi-omics analysis. It offers a comprehensive visualization tool, designed to present data in a coherent and insightful manner. To better evaluate the association of gene-metabolite pairs, we have incorporated a range of methods integrating cause-and-effect relationships and similarity computation, many of which are traditionally overlooked in omics analyses. Additionally, CAT Bridge features an artificial intelligence assistant designed to inspire users based on prior knowledge. We evaluated the effectiveness of CAT Bridge using self-generated and publically available time-series transcriptome and metabolome data of non-model plant (chili pepper) and human datasets. CAT Bridge successfully identified genes involved in the biosynthesis of capsaicin in Capsicum chinense L. Furthermore, case study results showed that the convergent cross mapping (CCM) method outperforms traditional approaches in longitudinal multi-omics analyses. CAT Bridge simplifies access to various established methods for longitudinal multi-omics analysis, and enabling researchers to swiftly identify associated gene-metabolite pairs for further validation.
 authors:
-- Bowen Yang
+- admin
 - Tan Meng
 - Xinrui Wang
 - Jun Li
