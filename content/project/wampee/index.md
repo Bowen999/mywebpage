@@ -26,8 +26,18 @@ url_slides: ""
 url_video: ""
 ---
 ### Abstract
-* In the study, four c-type lectins were identified and characterized from the manila clam Venerupis philippinarum (designed as VpClec-1, VpClec-2, VpClec-3 and VpClec4 respectively).   
-* Multiple alignments and phylogenetic analysis strongly suggested that they were new members of the c-type lectin superfamily.  
-* After Vibrio anguillarum challenge, the temporal expression of all c-type lectins transcripts was up-regulated.  
-* They displayed broad agglutination and antibacterial activities towards Vibrio harveyi, Vibrio splendidus, Vibrio anguillarum, Enterobacter cloacae and Aeromonas hydrophila.   
-* All the results showed that four C-type lectins functioned as pattern recognition receptors (PRRs) with distinct recognition spectrum, and involved in the innate immune responses of manila clams.  
+#### Phase One： Established the genome and conducted population genomics analysis.
+* A high-quality chromosome-level genome sequence for the wampee cultivar JinFeng was developed, marking a significant enhancement from earlier versions. This genome spans 297.1Mb over nine chromosomes, encompassing 23,468 protein-coding genes.
+
+* An analysis of 266 genome accessions showcased the genetic landscape and differentiation of wampee in China. Notably, genes influencing the evolution of sour and sweet flavors in cultivated wampee variants were pinpointed.
+
+* A comprehensive genome-wide association study spotlighted 220 markers linked to the total acid content in the fruit. Intriguingly, these markers correlate with 289 genes, encoding transcription factors, transporters, and enzymes pivotal in sugar and acid metabolic processes, shedding light on the flavor development in wampee fruit.
+
+#### Phase Two: Integrative analysis of the transcriptome and metabolome.
+* An integrative examination of the metabolome and transcriptome was performed on samples from three unique time points across two variants.
+* This analysis distinguished the differential accumulation of organic acids and sugars, pinpointed genes with varied expression levels, and identified diverging pathways, notably the citric acid cycle and starch and sucrose metabolism.
+* Using tools like WGCNA and associations between genes and metabolites, we've identified five potential pivotal genes and two transcription factors within the differing pathways.
+
+
+
+
