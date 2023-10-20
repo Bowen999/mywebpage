@@ -7,7 +7,7 @@ authors:
 - Xiangfeng Wang
 - Xiaoxiao Chang
 - Zhe Chen
-- Bowen Yang
+- admin
 - Xinrui Wang
 - Jishui Qiu
 - Li Guo

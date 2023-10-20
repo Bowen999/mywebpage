@@ -27,7 +27,7 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "Softwares"
-    tag = "software"
+    tag = "softwares"
   
   [[content.filter_button]]
     name = "Multi-omics"

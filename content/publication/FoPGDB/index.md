@@ -7,7 +7,7 @@ authors:
 - Yi Zhou
 - Shaoying Chen
 - Xinrui Wang
-- Bowen Yang
+- admin
 - Jie Sun
 - Xin Geng
 - Dilay Hazal Ayhan

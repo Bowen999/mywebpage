@@ -4,7 +4,7 @@ authors:
 - Bangguo Ma
 - Xiaoli Zhao
 - Xiaoning Zhang
-- Bowen Yang
+- admin
 - Zimin Cai
 - Zihan Xing
 - Mingzhe Xu
