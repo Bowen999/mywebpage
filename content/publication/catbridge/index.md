@@ -39,11 +39,10 @@ tags:
 - database
 title: 'CAT Bridge: a comprehensive longitudinal multi-omics analysis toolkit for transcript and metabolite association (submitted)'
 url_code: "http://www.catbridge.work/"
-url_dataset: "http://www.catbridge.work/"
+url_dataset: ""
 url_pdf: ""
-url_web: "http://www.catbridge.work/"
 url_poster: ""
-url_project: ""
+url_project: "http://www.catbridge.work/"
 url_slides: ""
 url_source: ""
 url_video: ""
