@@ -9,11 +9,7 @@ links:
   icon_pack: 
   name: Read More
   url: https://bowen999.netlify.app/project/wampee/
-- icon:
-  icon_pack:
-  name: Publication
-  url: https://bowen999.netlify.app/tag/wampee/
-  
+
 slides:
 summary: Multi-omics analysis reveals the sour and sweet mechanism of wampee
 tags:
