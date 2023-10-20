@@ -26,12 +26,12 @@ subtitle = ""
     tag = "research"
   
   [[content.filter_button]]
-    name = "Bioinformatics"
-    tag = "bioinformatics"
+    name = "Softwares"
+    tag = "software"
   
   [[content.filter_button]]
-    name = "Marine Biology"
-    tag = "marine biology"
+    name = "Multi-omics"
+    tag = "multi omics"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

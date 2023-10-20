@@ -18,7 +18,7 @@ slides:
 summary: LIME, a metabolomics annotation/identification software 
 tags:
 - research
-- bioinformatics
+- softwares
 title: Metabolomics Annotation
 url_code: ""
 url_pdf: ""
