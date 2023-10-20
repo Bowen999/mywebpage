@@ -15,11 +15,11 @@ links:
   url: https://bowen999.netlify.app/tag/marine-biology/
   
 slides:
-summary: 
+summary: Molecular mechanisms of shellfish immunity and environmental toxicity
 tags:
 - research
 - multi omics
-title: Mechanism of Shellfish
+title: Molecular Mechanism of Shellfish
 url_code: ""
 url_pdf: ""
 url_slides: ""
