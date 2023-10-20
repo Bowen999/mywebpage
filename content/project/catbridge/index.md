@@ -9,7 +9,7 @@ links:
   icon_pack: 
   name: Read More
   url: https://bowenyang.netlify.app/project/catbridge/
-- icon: github
+- icon: chrome
   icon_pack: fab
   name: Website
   url: http://www.catbridge.work/
