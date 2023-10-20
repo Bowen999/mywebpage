@@ -1,6 +1,6 @@
 ---
 date: "2023-10-20T00:00:00Z"
-external_link: "http://www.catbridge.work/"
+external_link: ""
 image:
   caption:
   focal_point: Smart
