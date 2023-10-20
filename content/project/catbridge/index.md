@@ -13,7 +13,6 @@ links:
   icon_pack: fab
   name: Code
   url: http://www.catbridge.work/
-
 slides:
 summary: A comprehensive longitudinal multi-omics analysis toolkit
 tags:
