@@ -9,13 +9,13 @@ links:
   icon_pack: 
   name: Read More
   url: https://bowen999.netlify.app/project/FoPGDB/
-- icon: github
+- icon: chrome
   icon_pack: fab
-  name: Code
-  url: https://github.com/Bowen999/LIME
+  name: Website
+  url: http://www.fopgdb.site
 
 slides:
-summary: A pangenome database of Fusarium oxysporum, 1 a cross-kingdom fungal pathogen 
+summary: A pangenome database of Fusarium oxysporum, a cross-kingdom fungal pathogen 
 tags:
 - research
 - softwares
