@@ -33,7 +33,7 @@ tags:
 title: 'Molecular characterization, expression and immune functions of two C-type lectin from Venerupis philippinarum'
 url_code: ""
 url_dataset: ""
-url_pdf: "https://github.com/Bowen999/B0W3N/raw/main/content/publication/marine2/example.pdf"
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""

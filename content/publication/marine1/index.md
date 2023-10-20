@@ -31,7 +31,7 @@ tags:
 title: 'Two c-type lectins from Venerupis philippinarum: Possible roles in immune recognition and opsonization'
 url_code: ""
 url_dataset: ""
-url_pdf: "https://github.com/Bowen999/mywebpage/tree/main/content/publication/marine1/example.pdf"
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
