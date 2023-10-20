@@ -32,7 +32,7 @@ summary: "summary"
 tags:
 - submitted
 - bioinformatics
-- database
+- wampee
 title: 'Genomic insights into wampee evolution and fruit organic acid metabolism (submitted)'
 url_code: ""
 url_dataset: ""
