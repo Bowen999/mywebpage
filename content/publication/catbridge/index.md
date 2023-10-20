@@ -41,6 +41,7 @@ title: 'CAT Bridge: a comprehensive longitudinal multi-omics analysis toolkit fo
 url_code: "http://www.catbridge.work/"
 url_dataset: "http://www.catbridge.work/"
 url_pdf: ""
+url_web: "http://www.catbridge.work/"
 url_poster: ""
 url_project: ""
 url_slides: ""
