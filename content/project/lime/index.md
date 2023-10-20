@@ -15,11 +15,11 @@ links:
   url: https://github.com/Bowen999/LIME
 
 slides:
-summary: LIME & MCID2.0
+summary: Metabolite library and annotation tools
 tags:
 - research
 - softwares
-title: Metabolite annotation tools
+title: LIME & MCID2.0
 url_code: ""
 url_pdf: ""
 url_slides: ""

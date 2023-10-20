@@ -1,5 +1,5 @@
 ---
-date: "2022-12-27T00:00:00Z"
+date: "2023-05-1T00:00:00Z"
 external_link: ""
 image:
   caption:
@@ -15,17 +15,27 @@ links:
   url: https://bowen999.netlify.app/tag/marine-biology/
   
 slides:
-summary: Identified 4 C-type lectins involved in innate immune responses in Venerupis philippinarum
+summary: 
 tags:
 - research
-- marine biology
-title: Shellfish Immune Mechanism
+- multi omics
+title: Mechanism of Shellfish
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-### Abstract
+
+### Neurotoxicity of inorganic mercury in Mactra chinensis philippi
+Hg2+ affected Mactra in metabolic pathways, neurotransmitters and Ca2+
+
+* **Metabolic pathways**:
+mainly included glycolysis; citrate cycle; nucleotide metabolism; alanine, aspartate and glutamate metabolism; nucleotide metabolism and osmotic regulation.
+* **Neurotransmitters and related enzymes**:
+the neurotransmitters included increased glutamate, decreased nitric oxide and acetylcholine, the related enzymes included increased nitric oxide synthase and decreased acetylcholinesterase.
+* **Concentration of Ca2+**: led to calcium overload 
+
+### Identified 4 C-type lectins involved in innate immune responses in Venerupis philippinarum
 * In the study, four c-type lectins were identified and characterized from the manila clam Venerupis philippinarum (designed as VpClec-1, VpClec-2, VpClec-3 and VpClec4 respectively).   
 * Multiple alignments and phylogenetic analysis strongly suggested that they were new members of the c-type lectin superfamily.  
 * After Vibrio anguillarum challenge, the temporal expression of all c-type lectins transcripts was up-regulated.  
