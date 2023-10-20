@@ -11,7 +11,7 @@ links:
   url: https://bowenyang.netlify.app/project/catbridge/
 - icon: github
   icon_pack: fab
-  name: Code
+  name: Website
   url: http://www.catbridge.work/
 slides:
 summary: A comprehensive longitudinal multi-omics analysis toolkit
