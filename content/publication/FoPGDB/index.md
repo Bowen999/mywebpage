@@ -14,7 +14,7 @@ authors:
 - Li Guo
 
 
-date: "2023-0-01T00:00:00Z"
+date: "2023-08-08T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -22,18 +22,18 @@ image:
   focal_point: ""
   preview_only: false
 projects:
-publication: 'submitted'
+publication: 'under revision'
 publication_short: "publication_short"
 publication_types:
 - "2"
-publishDate: "2020-12-01T00:00:00Z"
+publishDate: "2023-08-08T00:00:00Z"
 slides:
 summary: "summary"
 tags:
-- submitted
+- processing
 - bioinformatics
 - database
-title: 'FoPGDB: a pangenome database of Fusarium oxysporum, 1 a cross-kingdom fungal pathogen (under revision)'
+title: 'FoPGDB: a pangenome database of Fusarium oxysporum, a cross-kingdom fungal pathogen (under revision)'
 url_code: "http://www.fopgdb.site"
 url_dataset: ""
 url_pdf: ""
