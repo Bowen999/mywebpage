@@ -26,11 +26,11 @@ subtitle = ""
     tag = "research"
   
   [[content.filter_button]]
-    name = "Softwares"
+    name = "Bioinformatics Softwares"
     tag = "softwares"
   
   [[content.filter_button]]
-    name = "Multi-omics"
+    name = "Multi-omics Application"
     tag = "multi omics"
 
 [design]
