@@ -9,6 +9,10 @@ links:
   icon_pack: 
   name: Read More
   url: https://bowen999.netlify.app/project/lime/
+- icon: chrome
+  icon_pack: fab
+  name: Website
+  url: http://111.229.151.228:5000
 - icon: github
   icon_pack: fab
   name: Code
@@ -34,7 +38,6 @@ Therefore, we developed two automated tools for metabolite identification, **MCI
 *	Integrated metabolites from the KEGG database to upgrade the initial MCID 1.0
 *	Predicted products of primary metabolites across 76 biochemical reactions, to establish the one-reaction database
 *	Currently developing a web app to facilitate metabolite identification 
-
 
 The test demo of MCID 2.0 is available at [http://111.229.151.228:5000](http://111.229.151.228:5000
 ).
