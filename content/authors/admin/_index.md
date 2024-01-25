@@ -16,7 +16,7 @@ organizations:
     url: https://metabolomicscentre.ca
 
 # Short bio (displayed in user profile at end of posts)
-bio: Bioinformatics, Metabolomics, Software Development, Mass Spectrometry, Machine Learning.
+bio: Bioinformatics, Metabolomics, Mass Spectrometry.
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -38,7 +38,7 @@ email: 'by8@ualberta.ca'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I'm a first PhD student at the University of Alberta, under the supervision of [Dr. Liang Li](https://spaces.facsci.ualberta.ca/liweb/prof-liang-li/), a fellow of the Royal Society of Canada (Academy of Science). Before that, I completed my Master's degree in the [Dr. Fornace Lab](https://fornacelab.georgetown.edu) at Georgetown University.
+I'm a first-year PhD student at the University of Alberta, under the supervision of [Dr. Liang Li](https://spaces.facsci.ualberta.ca/liweb/prof-liang-li/), a fellow of the Royal Society of Canada (Academy of Science). Before that, I completed my Master's degree in the [Dr. Fornace Lab](https://fornacelab.georgetown.edu) at Georgetown University.
 
 My research is focused on leveraging computational approaches, including software development, data science, and machine learning, to study biological functions and uncover novel biomarkers, particularly in the realm of mass spectrometry-based metabolomics annotation. If you're interested in my research or potential collaborations, feel free to drop me an e-mail!
 
