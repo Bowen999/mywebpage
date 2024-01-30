@@ -30,22 +30,10 @@ url_slides: ""
 url_video: ""
 ---
 
-Modern mass spectrometers can detect thousands of compounds in the biological samples with unprecedented sensitivity. And metabolomics is a technique to compare and discover the different of compounds (metabolites) in different samples. As a study primarily concerned with compounds in organisms, metabolomics is regarded as the most phenotype-reflective omics. One of the most challenging phases in metabolomics analysis is the annotation and identification of the compounds. Although many databases have been created and a huge number of compounds are present, there is not a complete overlap and no uniform naming standards among them, making manual large-scale searching become a highly time-consuming and error-prone task.  
+Metabolites play an important role in various biological functions, and the development of analytical chemistry techniques, especially Liquid Chromatography-Mass Spectrometry (LC-MS), has made high-throughput detection of metabolites possible. However, a major challenge in the field is that currently only about 30% of features detected by LC-MS can be identified, most features are "dark matter" due to the absence of corresponding matches in databases. Also, although many databases have been created and a huge number of compounds are present, there are no uniform naming standards among them, making manual large-scale searching a highly time-consuming and error-prone task.  
 
-Therefore, we developed two automated tools for metabolite identification, **MCID 2.0** and **LIME**.
-## MCID 2.0 
+To tackle these issues, we integrated resources from different databases through InChIKey, and predicting biochemical reaction products using RDKit to construct 1 reaction and 2 reaction libraries. This approach expands the identification coverage. Following this concept, we are developing **[MCID 2.0](http://111.229.151.228:5000)** and LIME.
 
-*	Integrated metabolites from the KEGG database to upgrade the initial MCID 1.0
-*	Predicted products of primary metabolites across 76 biochemical reactions, to establish the one-reaction database
-*	Currently developing a web app to facilitate metabolite identification 
-
-The test demo of MCID 2.0 is available at [http://111.229.151.228:5000](http://111.229.151.228:5000
-).
-
-
-
-## LIME
-LIME is a high-throughput metabolite annotation tool for post-processed liquid chromatography-mass spectrometry (LC-MS) metabolomic data. Uploaded MS1 Features (m/z, retention time) that  are searched for in LIME-integrated databases and sorted by score. The database of LIME includes 286,268 unique chemical structures when ignoring stereochemistry and charge, which were integrated from [Human Metabolome Database (HMDB)](https://hmdb.ca), [Chemical Entities of Biological Interest (ChEBI)](https://www.ebi.ac.uk/chebi/), and [LIPID MAPS](https://www.lipidmaps.org), three mainstream metabolite databases. InChIKey, a fixed-length format derived from [IUPAC International Chemical Identifier (InChI)](https://www.inchi-trust.org/) by hash, was used as the unique identifier of LIME.  
 
 
 ![Figure_1](https://user-images.githubusercontent.com/87933959/199609825-10a8c7fd-0634-41ff-bda9-bce508a09de2.png)
