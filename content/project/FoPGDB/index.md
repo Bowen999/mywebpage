@@ -8,7 +8,7 @@ links:
 - icon: 
   icon_pack: 
   name: Read More
-  url: https://bowen999.netlify.app/project/FoPGDB/
+  url: https://byang.netlify.app/project/FoPGDB/
 - icon: chrome
   icon_pack: fab
   name: Website

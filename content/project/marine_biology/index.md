@@ -8,11 +8,11 @@ links:
 - icon: 
   icon_pack: 
   name: Read More
-  url: https://bowen999.netlify.app/project/marine_biology/
+  url: https://byang.netlify.app/project/marine_biology/
 - icon:
   icon_pack:
   name: Publication
-  url: https://bowen999.netlify.app/tag/marine-biology/
+  url: https://byang.netlify.app/tag/marine-biology/
   
 slides:
 summary: Molecular mechanisms of shellfish immunity and environmental toxicity

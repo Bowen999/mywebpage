@@ -8,7 +8,7 @@ links:
 - icon: 
   icon_pack: 
   name: Read More
-  url: https://bowen999.netlify.app/project/wampee/
+  url: https://byang.netlify.app/project/wampee/
 
 slides:
 summary: Multi-omics analysis reveals the sour and sweet mechanism of wampee
@@ -33,7 +33,6 @@ url_video: ""
 * An integrative examination of the metabolome and transcriptome was performed on samples from three unique time points across two variants.
 * This analysis distinguished the differential accumulation of organic acids and sugars, pinpointed genes with varied expression levels, and identified diverging pathways, notably the citric acid cycle and starch and sucrose metabolism.
 * Using tools like WGCNA and associations between genes and metabolites, we've identified five potential pivotal genes and two transcription factors within the differing pathways.
-
 
 
 
