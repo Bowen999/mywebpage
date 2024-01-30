@@ -23,7 +23,7 @@ summary: Metabolite library and annotation tools
 tags:
 - research
 - softwares
-title: LIME & MCID2.0
+title: MCID2.0 & LIME
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -45,7 +45,7 @@ The test demo of MCID 2.0 is available at [http://111.229.151.228:5000](http://1
 
 
 ## LIME
-LIME is a high-throughput metabolite annotation tool for post-processed liquid chromatography-mass spectrometry (LC-MS) metabolomic data. MS1 Features (m/z, retention time) that uploaded are searched for in LIME-integrated databases and sorted by score. The database of LIME includes 286,268 unique chemical structures when ignoring stereochemistry and charge, which were integrated from [Human Metabolome Database (HMDB)](https://hmdb.ca), [Chemical Entities of Biological Interest (ChEBI)](https://www.ebi.ac.uk/chebi/), and [LIPID MAPS](https://www.lipidmaps.org), three mainstream metabolite databases. InChIKey, a fixed-length format derived from [IUPAC International Chemical Identifier (InChI)](https://www.inchi-trust.org/) by hash, was used as the unique identifier of LIME.  
+LIME is a high-throughput metabolite annotation tool for post-processed liquid chromatography-mass spectrometry (LC-MS) metabolomic data. Uploaded MS1 Features (m/z, retention time) are searched for in LIME-integrated databases and sorted by score. The database of LIME includes 286,268 unique chemical structures when ignoring stereochemistry and charge, which were integrated from [Human Metabolome Database (HMDB)](https://hmdb.ca), [Chemical Entities of Biological Interest (ChEBI)](https://www.ebi.ac.uk/chebi/), and [LIPID MAPS](https://www.lipidmaps.org), three mainstream metabolite databases. InChIKey, a fixed-length format derived from [IUPAC International Chemical Identifier (InChI)](https://www.inchi-trust.org/) by hash, was used as the unique identifier of LIME.  
 
 
 ![Figure_1](https://user-images.githubusercontent.com/87933959/199609825-10a8c7fd-0634-41ff-bda9-bce508a09de2.png)
