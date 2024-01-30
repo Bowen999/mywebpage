@@ -8,7 +8,7 @@ links:
 - icon: 
   icon_pack: 
   name: Read More
-  url: https://byang.netlify.app/project/lime/
+  url: https://byang.netlify.app/project/mcid/
 - icon: chrome
   icon_pack: fab
   name: Website
