@@ -1,5 +1,5 @@
 ---
-abstract: Wampee (Clausena lansium) is an economically important subtropical fruit tree widely cultivated in Southern China. High-quality genomic resources are unavailable but essential to functional genomics and genetic improvement of wampee. Here, we report a chromosome-level genome sequence for the wampee cultivar JinFeng and a population genomic analysis of 266 accessions. The 297.1Mb wampee genome containing nine chromosomes with a scaffold N50 of 29.2Mb and encoding 23,468 protein-coding genes represented a significant improvement over a previous version. We dissected the wampee population structure and genetic differentiation in China using population genomic analysis, which detected 110 and 671 genes under selective sweep associated with sour and sweet wampee evolution in domesticated clones, respectively. Homozygous nonsynonymous SNPs were identified to likely associated with fruit flavor differentiation. Genome-wide association study identified 220 significant marker-trait associations for total acid content harboring 289 genes encoding transcription factors, transporters, and enzymes involved in sugar and acid metabolism, potentially useful to sour and sweet taste development in wampee fruit. The high-quality genome resources will be valuable to expedite wampee research and genome-assisted breeding.
+abstract: Wampee (Clausena lansium) is an economically significant subtropical fruit tree widely cultivated in Southern China. High-quality genomic resources are unavailable, but they are essential for functional genomics and germplasm enhancement of wampee. Here, we provide a chromosome-level genome sequence for the wampee cultivar JinFeng and a population genomic analysis of 266 accessions. The 297.1 Mb wampee genome, containing nine chromosomes with a scaffold N50 of 29.2 Mb and encoding 23,468 protein-coding genes, showed a significant improvement over the previous version. We dissected the wampee population structure and genetic differentiation in China using population genomic analysis, which detected 110 and 671 genes under a selective sweep associated with sour and sweet wampee evolution in domesticated clones, respectively. Homozygous non-synonymous single nucleotide polymorphisms are likely associated with fruit flavor differentiation. A genome-wide association study identified 220 remarkable marker-trait associations for total acid content, harboring 289 genes encoding transcription factors, transporters, and enzymes involved in sugar and acid metabolism, which are potentially useful for sour and sweet taste development in wampee fruit. Furthermore, the ethylene response factor family gene ClERF061 and the SWEET family gene ClSWEET7 were identified. Linkage assessment between the relative expression levels of ClERF061 or ClSWEET7 and the total acid/total sugar contents implied their potential involvement in sugar-acid metabolism in wampee fruits. High-quality genome resources are valuable for expediting wampee research and genome-assisted breeding.
 authors:
 - Huiqiong Chen
 - Jingxuan Wang
@@ -30,10 +30,10 @@ publishDate: "2023-08-20T00:00:00Z"
 slides:
 summary: "summary"
 tags:
-- submitted
+- processing
 - bioinformatics
 - wampee
-title: 'Genomic insights into wampee evolution and fruit organic acid metabolism (submitted)'
+title: 'Wampee chromosome-level reference genome elucidates fruit sugar-acid metabolism (Under Review)'
 url_code: ""
 url_dataset: ""
 url_pdf: ""
