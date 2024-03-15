@@ -29,7 +29,7 @@ url_video: ""
 
 Metabolites play an important role in various biological functions, and the development of analytical chemistry techniques, especially Liquid Chromatography-Mass Spectrometry (LC-MS), has made high-throughput detection of metabolites possible. However, a major challenge in the field is that currently only about 30% of features detected by LC-MS can be identified, most features are "dark matter" due to the absence of corresponding matches in databases. Also, although many databases have been created and a huge number of compounds are present, there are no uniform naming standards among them, making manual large-scale searching a highly time-consuming and error-prone task.  
 
-We aim to enhance the coverage of MS feature annotations by analyzing and purifying public databases, and predicting "dark metabolite" (entities that are challenging to detect yet truly exist.) Furthermore, we also want to explore how to apply multidimensional feature information (MS1, MS2, retention time, molecular networks) to the CIL (Chemical Isotope Labeling) Metabolomics method (https://metabolomicscentre.ca/service/global-metabolomics-by-chemical-isotope-labeling-lc-ms/).
+We aim to enhance the coverage of MS feature annotations by analyzing and purifying public databases, and predicting "dark metabolite" (entities that are challenging to detect yet truly exist.) Furthermore, we also want to explore how to apply multidimensional feature information (MS1, MS2, retention time, molecular networks) to the [CIL (Chemical Isotope Labeling) Metabolomics method](https://metabolomicscentre.ca/service/global-metabolomics-by-chemical-isotope-labeling-lc-ms/).
 
 Please test our [demo](http://111.229.151.228:5000/home).
 
