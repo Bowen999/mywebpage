@@ -15,25 +15,25 @@ authors:
 - Xiaoli Liu
 
 
-date: "2023-07-30T00:00:00Z"
-doi: ""
+date: "2023-03-24T00:00:00Z"
+doi: "https://doi.org/10.1016/j.aquatox.2024.106896"
 featured: false
 image:
   caption:
   focal_point: ""
   preview_only: false
 projects:
-publication: 'submitted'
+publication: 'Aquatic Toxicology'
 publication_short: "publication_short"
 publication_types:
 - "2"
-publishDate: "2023-07-30T00:00:00Z"
+publishDate: "2024-03-24T00:00:00Z"
 slides:
 summary: "summary"
 tags:
-- submitted
 - marine biology
-title: 'The acute neurotoxicity of inorganic mercury in Mactra chinensis philippi (under review)'
+- metabolomics
+title: 'The acute neurotoxicity of inorganic mercury in Mactra chinensis philippi'
 url_code: ""
 url_dataset: ""
 url_pdf: ""

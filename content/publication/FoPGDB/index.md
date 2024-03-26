@@ -32,7 +32,7 @@ summary: "summary"
 tags:
 - bioinformatics
 - database
-title: 'FoPGDB: a pangenome database of Fusarium oxysporum, a cross-kingdom fungal pathogen (under revision)'
+title: 'FoPGDB: a pangenome database of Fusarium oxysporum, a cross-kingdom fungal pathogen'
 url_code: "http://www.fopgdb.site"
 url_dataset: ""
 url_pdf: ""
