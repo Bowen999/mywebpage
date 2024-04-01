@@ -36,14 +36,13 @@ tags:
 - bioinformatics
 - software
 title: 'CAT Bridge: an efficient toolkit for compound-transcript association mining from multi-omics data'
-url_code: "http://catbridge.work"
+url_code: ""
 url_dataset: ""
-url_pdf: "https://www.biorxiv.org/content/10.1101/2024.01.21.576587v1.full.pdf+html"
+url_pdf: ""
 url_poster: ""
-url_project: ""
+url_project: "http://catbridge.work"
 url_slides: ""
 url_source: ""
 url_video: ""
-url_web_app: "http://catbridge.work"
 ---
 
