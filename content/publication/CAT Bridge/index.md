@@ -17,7 +17,7 @@ authors:
 
 
 date: "2024-01-24T00:00:00Z"
-doi: ""
+doi: "10.1101/2024.01.21.576587"
 featured: false
 image:
   caption:
@@ -44,5 +44,6 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+url_web_app: "http://catbridge.work"
 ---
 
