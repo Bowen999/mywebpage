@@ -9,10 +9,6 @@ links:
   icon_pack: 
   name: Read More
   url: https://byang.netlify.app/project/mcid/
-- icon: github
-  icon_pack: fab
-  name: Code
-  url: https://github.com/Bowen999/LIME
 
 slides:
 summary: An evidence-based metabolome library for metabolite identification
@@ -54,5 +50,4 @@ We have divided our initial databases into six sections based on the type of org
 To facilitate the prediction of reaction products, we developed a **maintainable and scalable reaction pipeline** using RDKit. This pipeline utilizes the Simplified Molecular Input Line Entry System (SMILES) to represent molecular structures and SMILES Inferred Reaction Knowledge Syntax (SMIRKS) to denote reaction rules, allowing for rapid integration of new chemical transformation rules and their application to new datasets. In addition, we have **established rules for 76 common biochemical reactions**, which are currently being applied to the initial libraries.
 
 By predicting products from these reactions, the number increases and covers a greater chemical space. This expansion can help explain some LC-MS features that were previously unannotated in the original datasets.
-
 
