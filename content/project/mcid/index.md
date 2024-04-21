@@ -30,7 +30,6 @@ Metabolites play an important role in various biological functions, and the deve
 * Expand the coverage of compounds and species to accommodate different research subjects
 * Construct a scalable and maintainable rule-based reaction product prediction pipeline
 * Provide a more modern, user-friendly interface applicable to various scenarios
-![Figure_1](./Figure2.png)
 
 # Methods
 The construction of MCID 2.0 involves three components: the creation of the initial library, the prediction of reaction products, and the software implementation.
@@ -50,4 +49,4 @@ We have divided our initial databases into six sections based on the type of org
 To facilitate the prediction of reaction products, we developed a **maintainable and scalable reaction pipeline** using RDKit. This pipeline utilizes the Simplified Molecular Input Line Entry System (SMILES) to represent molecular structures and SMILES Inferred Reaction Knowledge Syntax (SMIRKS) to denote reaction rules, allowing for rapid integration of new chemical transformation rules and their application to new datasets. In addition, we have **established rules for 76 common biochemical reactions**, which are currently being applied to the initial libraries.
 
 By predicting products from these reactions, the number increases and covers a greater chemical space. This expansion can help explain some LC-MS features that were previously unannotated in the original datasets.
-
+![Figure_1](./Figure2.png)
