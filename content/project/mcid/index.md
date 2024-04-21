@@ -25,7 +25,7 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-![Figure_1](./Figure2.png)
+
 # Introduction
 Metabolites play an important role in various biological functions, and the development of analytical chemistry techniques, especially Liquid Chromatography-Mass Spectrometry (LC-MS), has made high-throughput detection of metabolites possible. However, a major challenge in the field is that currently **only about 30% of features** detected by LC-MS can be identified, most features are “dark matter” due to the absence of corresponding matches in databases. To tackle these issues, the MyCompoundID (MCID) was developed. It employs the prediction of biochemical reaction products to expand metabolites coverage, and has been widely used, garnering over 610 citations. However, the last update to MCID was nine years ago. Recognizing advancements in metabolomics in recent years, especially as **new metabolites** from different species have been discovered, and **new cheminformatics methods** have been developed, we have updated and introduced MCID 2.0, the new version of this tool, to improve the accuracy of predicted products and to expand their application scope.
 
@@ -34,17 +34,17 @@ Metabolites play an important role in various biological functions, and the deve
 * Expand the coverage of compounds and species to accommodate different research subjects
 * Construct a scalable and maintainable rule-based reaction product prediction pipeline
 * Provide a more modern, user-friendly interface applicable to various scenarios
-
+![Figure_1](./Figure2.png)
 
 # Methods
 The construction of MCID 2.0 involves three components: the creation of the initial library, the prediction of reaction products, and the software implementation.
-**Initial library:**
+#### Initial library:
 The initial library is divided into different sections based on the diversity of the species included, with each section assembled by combining multiple databases via InChIKey.
 
-**Products prediction: **
+#### Products prediction: 
 Based on this, the products of reactions are predicted using RDKit to build the one and two reaction libraries. The reaction rules are represented by line notation, and based on these rules, we developed a comprehensive pipeline to generate the predicted product dataset.
 
-**Software implementation: **
+#### Software implementation:
 Two usage modes for MCID 2.0 are created: a web server and a standalone application. SQLite manages the database behind MCID 2.0, while Python powers the backend functions. The web server version is built with the Flask framework and connects the backend to a React-based frontend. The standalone application's graphical user interface is created using TKinter.
 ![Figure_1](./Figure1.png)
 
