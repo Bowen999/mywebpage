@@ -9,6 +9,10 @@ links:
   icon_pack: 
   name: Read More
   url: https://byang.netlify.app/project/mcid/
+- icon: 
+  icon_pack: 
+  name: Poster
+  url: https://github.com/Bowen999/mywebpage/blob/main/content/project/mcid/Poster_CanMetCon2024.pdf
 
 slides:
 summary: An evidence-based metabolome library for metabolite identification
