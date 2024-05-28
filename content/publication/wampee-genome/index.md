@@ -24,7 +24,7 @@ image:
 projects:
 publication: 'bioRxiv'
 publication_short: "publication_short"
-publication_types:
+publication_types: 
 - "2"
 publishDate: "2023-08-20T00:00:00Z"
 slides:
@@ -33,7 +33,7 @@ tags:
 - submitted
 - bioinformatics
 - wampee
-title: 'Wampee chromosome-level reference genome elucidates fruit sugar-acid metabolism'
+title: 'Genome assembly and GWAS identify key genes controlling sugar and organic acid accumulation in wampee fruit'
 url_code: ""
 url_dataset: ""
 url_pdf: ""
