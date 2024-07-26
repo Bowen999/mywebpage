@@ -11,7 +11,7 @@ role: PhD student in Chemistry
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Prof. Liang Li's Group 
-    url: https://liweb.chem.ualberta.ca
+    url: https://tmiclinode.com
   - name: The Metabolomics Innovation Centre (TMIC)
     url: https://metabolomicscentre.ca
 
