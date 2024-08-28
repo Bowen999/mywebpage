@@ -38,7 +38,7 @@ email: 'by8@ualberta.ca'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I'm a first-year Chemistry PhD student at the University of Alberta, under the supervision of [Dr. Liang Li](https://spaces.facsci.ualberta.ca/liweb/prof-liang-li/), a fellow of the Royal Society of Canada (Academy of Science). Before that, I completed my Bioinformatics Master's degree in the [Dr. Fornace Lab](https://fornacelab.georgetown.edu) at Georgetown University.  
+I'm a first-year Chemistry PhD student at the University of Alberta, under the supervision of [Dr. Liang Li](https://spaces.facsci.ualberta.ca/liweb/prof-liang-li/) (fellow of the Royal Society of Canada). Before that, I completed my Bioinformatics Master's degree in the [Dr. Fornace Lab](https://fornacelab.georgetown.edu) at Georgetown University.  
 
 My research interests focus on the development of metabolomics-centered multi omics analysis methods, and their practical applications in the real world. This includes simplifying data analysis through user-friendly software, developing high-coverage and accurate metabolite identification methods, and inferring biological networks from multi-omics data. My primary approaches involve software development, mass spectrometry, bioinformatics analysis, and machine learning.
 
