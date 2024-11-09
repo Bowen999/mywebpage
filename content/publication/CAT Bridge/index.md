@@ -16,8 +16,8 @@ authors:
 
 
 
-date: "2024-11-09T00:00:00Z"
-doi: "doi.org/10.1093/gigascience/giae083"
+date: "2024-11-08T00:00:00Z"
+doi: "https://doi.org/10.1093/gigascience/giae083"
 featured: false
 image:
   caption:
@@ -28,17 +28,17 @@ publication: 'GigaScience'
 publication_short: "publication_short"
 publication_types:
 - "2"
-publishDate: "2024-11-09T00:00:00Z"
+publishDate: "2024-11-08T00:00:00Z"
 slides:
 summary: "summary"
 tags:
 - bioinformatics
 - software
-- mulyi-omics
+- multi-omics
 title: 'CAT Bridge: an efficient toolkit for gene–metabolite association mining from multiomics data'
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://github.com/Bowen999/mywebpage/blob/main/content/publication/CAT%20Bridge/CATBridge.pdf"
 url_poster: ""
 url_project: "https://catbridge.work"
 url_slides: ""
