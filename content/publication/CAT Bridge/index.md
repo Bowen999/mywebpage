@@ -16,31 +16,31 @@ authors:
 
 
 
-date: "2024-01-24T00:00:00Z"
-doi: "10.1101/2024.01.21.576587"
+date: "2024-11-09T00:00:00Z"
+doi: "doi.org/10.1093/gigascience/giae083"
 featured: false
 image:
   caption:
   focal_point: ""
   preview_only: false
 projects:
-publication: 'submitted'
+publication: 'GigaScience'
 publication_short: "publication_short"
 publication_types:
 - "2"
-publishDate: "2024-01-24T00:00:00Z"
+publishDate: "2024-11-09T00:00:00Z"
 slides:
 summary: "summary"
 tags:
-- processing
 - bioinformatics
 - software
-title: 'CAT Bridge: an efficient toolkit for compound-transcript association mining from multi-omics data'
+- mulyi-omics
+title: 'CAT Bridge: an efficient toolkit for gene–metabolite association mining from multiomics data'
 url_code: ""
 url_dataset: ""
 url_pdf: ""
 url_poster: ""
-url_project: "http://catbridge.work"
+url_project: "https://catbridge.work"
 url_slides: ""
 url_source: ""
 url_video: ""
