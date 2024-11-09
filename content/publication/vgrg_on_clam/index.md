@@ -7,14 +7,14 @@ authors:
 - Ruijia Tao
 - Liuya Mi
 - Jiawan Lv 
-- Bowen Yang
+- admin
 - Yancui Zhao
 - Lei Wang 
 - Xiaoli Liu
 
 
-date: "2024-01-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.aquatox.2024.106896"
+date: "2024-10-01T00:00:00Z"
+doi: ""
 featured: false
 image:
   caption:
@@ -25,11 +25,12 @@ publication: 'Submitted'
 publication_short: "publication_short"
 publication_types:
 - "2"
-publishDate: "2024-014T00:00:00Z"
+publishDate: "2024-10-01T00:00:00Z"
 slides:
 summary: "summary"
 tags:
 - marine biology
+- submitted
 title: 'Vibrio Harveyi exosomes secrete VgrG protein and cause toxic effects to Ruditapes philippinarum'
 url_code: ""
 url_dataset: ""
