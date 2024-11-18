@@ -8,7 +8,7 @@ links:
 - icon: 
   icon_pack: 
   name: Read More
-  url: https://byang.netlify.app/project/wampee/
+  url: https://byang.netlify.app/project/agriculture_fisheries/
 
 slides:
 summary: Accelerating molecular breeding using multi-omics methods
