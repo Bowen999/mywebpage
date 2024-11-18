@@ -1,8 +1,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 @@ -1,43 +0,0 @@
+=======
+>>>>>>> parent of e473ac5 (update proj)
 =======
 >>>>>>> parent of e473ac5 (update proj)
 =======
@@ -54,7 +57,11 @@ the neurotransmitters included increased glutamate, decreased nitric oxide and a
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 * All the results showed that four C-type lectins functioned as pattern recognition receptors (PRRs) with distinct recognition spectrum, and involved in the innate immune responses of manila clams.  
+=======
+* All the results showed that four C-type lectins functioned as pattern recognition receptors (PRRs) with distinct recognition spectrum, and involved in the innate immune responses of manila clams.  
+>>>>>>> parent of e473ac5 (update proj)
 =======
 * All the results showed that four C-type lectins functioned as pattern recognition receptors (PRRs) with distinct recognition spectrum, and involved in the innate immune responses of manila clams.  
 >>>>>>> parent of e473ac5 (update proj)
