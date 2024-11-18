@@ -11,11 +11,13 @@ links:
   url: https://byang.netlify.app/project/wampee/
 
 slides:
-summary: Multi-omics analysis reveals the sour and sweet mechanism of wampee
+summary: Accelerating molecular breeding using multi-omics methods
 tags:
 - research
 - multi omics
-title: Flavor of Wampee
+- marine biology
+- agriculture
+title: Multi-omics in agriculture and fisheries
 url_code: ""
 url_pdf: ""
 url_slides: ""
