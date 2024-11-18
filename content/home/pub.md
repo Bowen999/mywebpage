@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Publications"
-<!--subtitle = "Updates may not be timely"-->
+subtitle = "Updates may not be timely"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
