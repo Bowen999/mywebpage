@@ -23,8 +23,8 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-I work with experts to explore various scientific topics in agriculture and fisheries using multi-omics methods. Including understanding how flavor molecules develop and how wampee resists sunburn, studying growth mechanisms in peas, and researching immune responses in shellfish.
+I work with biological researchers to explore various scientific topics in agriculture and fisheries using multi-omics methods. Including understanding how flavor molecules develop and how wampee resists sunburn, studying growth mechanisms in peas, and researching immune responses in shellfish.
 
-I closely collaborate with Dr. Xiaoli Liu from Ludong University, Dr. Huiqiong Chen from the Guangdong Academy of Agricultural Sciences, and Dr. Hai Ying Yuan from the National Research Council of Canada.
+I collaborate with Dr. Xiaoli Liu (Ludong University), Dr. Huiqiong Chen (Guangdong Academy of Agricultural Sciences), and Dr. Hai Ying Yuan (National Research Council of Canada).
 
 
