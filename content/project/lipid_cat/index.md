@@ -1,5 +1,5 @@
 ---
-date: "2025-06-26T00:00:00Z"
+date: "2025-05-26T00:00:00Z"
 external_link: ""
 image:
   caption:
@@ -8,7 +8,7 @@ links:
 - icon: 
   icon_pack: 
   name: Read More
-  url: https://byang.netlify.app/project/agriculture_fisheries/
+  url: https://byang.netlify.app/project/lipid_cat/
 
 slides:
 summary: Accelerating molecular breeding using multi-omics methods
