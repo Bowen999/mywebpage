@@ -15,7 +15,6 @@ summary: Accelerating molecular breeding using multi-omics methods
 tags:
 - research
 - software
-- bioinformatics
 
 title: Lipid CAT
 url_code: ""
