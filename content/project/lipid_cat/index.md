@@ -1,5 +1,5 @@
 ---
-date: "2023-12-01T00:00:00Z"
+date: "2025-05-27T00:00:00Z"
 external_link: ""
 image:
   caption:
@@ -8,7 +8,7 @@ links:
 - icon: 
   icon_pack: 
   name: Read More
-  url: https://byang.netlify.app/project/mcid/
+  url: https://byang.netlify.app/project/lipid_cat
 - icon: 
   icon_pack: 
   name: Poster
