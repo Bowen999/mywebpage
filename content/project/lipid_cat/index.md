@@ -1,5 +1,5 @@
 ---
-date: "2025-05-26T00:00:00Z"
+date: "2023-09-27T00:00:00Z"
 external_link: ""
 image:
   caption:
@@ -8,23 +8,23 @@ links:
 - icon: 
   icon_pack: 
   name: Read More
-  url: https://byang.netlify.app/project/lipid_cat
-- icon: 
-  icon_pack: 
-  name: Poster
-  url: https://github.com/Bowen999/mywebpage/blob/main/content/project/mcid/Poster_CanMetCon2024.pdf
+  url: https://byang.netlify.app/project/agriculture_fisheries/
 
 slides:
-summary: A Comprehensive Resource for Contaminant Identification in LC-MS Lipidomics
+summary: Accelerating molecular breeding using multi-omics methods
+tags:
 - research
-- softwares
-title: Lipid CAT
+- multi omics
+- marine biology
+- agriculture
+title: Multi-omics in agriculture and fisheries
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
+I work with biological researchers to explore various scientific topics in agriculture and fisheries using multi-omics methods. Including understanding how flavor molecules develop and how wampee resists sunburn, studying growth mechanisms in peas, and researching immune responses in shellfish.
 
-# Introduction
-Lipidomics provides crucial insights into cellular processes and disease through the comprehensive analysis of lipids, primarily employing Liquid Chromatography (LC) and Mass Spectrometry (MS). A persistent challenge in these MS-based analyses is the presence of contaminants originating from experimental materials. These contaminants complicate signal interpretation and can lead to misidentification of true analytes. Unlike other MS-based fields with established contaminant databases (e.g., CRAPome for proteomics, MaConDa for metabolomics), lipidomics has lacked a dedicated software solution for contaminant identification. We introduce Lipid CAT (Contaminant Analysis Tool), novel software that matches unknown MS/MS spectra against a specialized contaminant database, significantly improving lipidomics data accuracy.
+I collaborate with Dr. Xiaoli Liu (Ludong University), Dr. Huiqiong Chen (Guangdong Academy of Agricultural Sciences), and Dr. Hai Ying Yuan (National Research Council of Canada).
+
 
