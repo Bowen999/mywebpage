@@ -28,7 +28,7 @@ email: 'by8@ualberta.ca'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I'm a Chemistry PhD student at the University of Alberta, under the supervision of [Dr. Liang Li](https://spaces.facsci.ualberta.ca/liweb/prof-liang-li/) (fellow of the Royal Society of Canada). Before that, I completed my Bioinformatics Master's degree in the [Dr. Fornace Lab](https://fornacelab.georgetown.edu) at Georgetown University.  
+I'm a Chemistry PhD student at the University of Alberta. Before that, I completed my Master's degree at Georgetown University.  
 
 If you're interested in my research or potential collaborations, feel free to drop me an e-mail!
 
