@@ -10,13 +10,9 @@ role: PhD student in Chemistry
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Prof. Liang Li's Group 
-    url: https://tmiclinode.com
-  - name: The Metabolomics Innovation Centre (TMIC)
-    url: https://metabolomicscentre.ca
+  - name: University of Alberta
+    url: https://www.ualberta.ca/en/index.html
 
-# Short bio (displayed in user profile at end of posts)
-bio: Bioinformatics, Metabolomics, Mass Spectrometry.
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -26,9 +22,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/Bowen999
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=4HcEa6oAAAAJ&hl=en
