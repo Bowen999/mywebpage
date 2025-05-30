@@ -35,4 +35,7 @@ Lipidomics provides crucial insights into cellular processes and disease through
 * An MS2 data processing workflow was developed that is specifically compatible with identifying consensus spectra for low-abundance contaminants.
 * A contaminant MS database was established, along with a user-friendly web application.
 
-![Workflow](./figure2.png)
+![Ubiquitous contaminants](./figure2.png)
+![The Lipid CAT web app interface.](./figure3.png)
+![Lipid CAT construction workflow.](./figure4.png)
+![HDBSCAN-based spectrum consensus.](./figure5.png)
