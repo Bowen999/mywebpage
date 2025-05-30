@@ -14,7 +14,7 @@ slides:
 summary: A Comprehensive Resource for Contaminant Identification in LC-MS Lipidomics
 tags:
 - research
-- software
+- softwares
 
 title: Lipid CAT
 url_code: ""
